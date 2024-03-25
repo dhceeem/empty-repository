@@ -1,0 +1,1 @@
+print('Testando repositório sem configuração inicial')
